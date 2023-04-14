@@ -1,3 +1,3 @@
 # My Certifications
 
-Certifications obtained for conferences , courses or trainings.
+Certifications obtained for conferences, courses or trainings.
